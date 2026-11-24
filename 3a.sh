@@ -1,4 +1,4 @@
-echo current working directory:
+echo "current working directory:"
 pwd
 echo
 
