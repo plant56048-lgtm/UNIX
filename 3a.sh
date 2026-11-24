@@ -2,7 +2,7 @@ echo current working directory:
 pwd
 echo
 
-echo "List of fileeeees and directories"
+echo "List of files and directories"
 ls -l
 
 echo
